@@ -1,0 +1,2 @@
+Ovo je file1 kojeg sam kreirao u novom branchu,
+ja volim da kreiram fajlova a brencove pogotovo.
