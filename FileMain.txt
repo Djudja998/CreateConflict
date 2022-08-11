@@ -1,1 +1,2 @@
 File u main branchu
+Napravio sam izmjene preko gita prije komita iz intelije.
